@@ -9,6 +9,12 @@ def PrintPrime(A):
         if isi == 2:
             print(f'Angka {item} Adalah Bilangan Prima')
         else:
-            print(f'Angka {item} Bukanlah Bilangan Prima')       
+            print(f'Angka {item} Bukanlah Bilangan Prima')
+            
+def PangkatAutomatis(A):
+    B = A**A
+    return B
 
 PrintPrime([1,2,3,4,5,6,7,8,9,10])
+A = PangkatAutomatis(5)
+print(A)
