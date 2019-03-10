@@ -4,14 +4,10 @@ Created on Sun Mar 10 12:50:30 2019
 
 @author: Almarsa
 """
-a = 8
-b = 6 
-c = 12
-d = 1
-ai = 100.00
-bj = 75.00
-ck = 150.00
-dl = 12.50
+a, ai = 8, 100.00
+b, bj = 6, 75.00 
+c, ck = 12, 150.00
+d, dl = 1, 12.50
 
 print(f"Jhon have {a} apple and the price is {ai}")
 print(f"Dilan have {b} apple and the price is {bj}")
