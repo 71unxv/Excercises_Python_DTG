@@ -7,12 +7,8 @@ def PrintPrime(A):
             if item % i == 0:
                 isi += 1
         if isi == 2:
-            print('Bilangan Prima')
-        elif isi == 1:
-            print('Bilangan Prima')
+            print(f'Angka {item} Adalah Bilangan Prima')
         else:
-            print('Bukangan Bilangan Prima')
-        isi = 0
-        
+            print(f'Angka {item} Bukanlah Bilangan Prima')       
 
 PrintPrime([1,2,3,4,5,6,7,8,9,10])
