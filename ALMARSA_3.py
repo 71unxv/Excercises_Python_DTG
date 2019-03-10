@@ -6,7 +6,7 @@ Created on Sun Mar 10 14:26:34 2019
 """
 
 A = []
-for i in range(1,20):
+for i in range(1,21):
     A.append(i)
 
 for i in A:
