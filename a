@@ -1,0 +1,137 @@
+[33mcommit 92674019ff3db64411e546de40da2d7fd58d5be0[m[33m ([m[1;36mHEAD -> [m[1;32mputrinawangsari[m[33m)[m
+Author: CLIENT <pnawangsari92@gmail.com>
+Date:   Sun Mar 10 12:39:20 2019 +0700
+
+    commit pertama
+
+[33mcommit c1ad73f912bd9a6cd59a41875aae749cb729dd2c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: cfedc16 1d93654
+Author: rintabt <48399054+rintabt@users.noreply.github.com>
+Date:   Sun Mar 10 12:00:08 2019 +0700
+
+    Merge pull request #8 from 71unxv/RintaBT
+    
+    Rintabt
+
+[33mcommit cfedc16c225301b2e12782d2609f4fbfab804273[m
+Merge: 3753da4 f947e59
+Author: achmaddwicahya <48398980+achmaddwicahya@users.noreply.github.com>
+Date:   Sun Mar 10 11:30:31 2019 +0700
+
+    Merge pull request #7 from 71unxv/AchmadDwiCahya
+    
+    cahya
+
+[33mcommit 3753da49b3b0b44202bbfcb4399ffcb1f4bee339[m
+Merge: 6c7452c 165a512
+Author: wienlestari02 <48399425+wienlestari02@users.noreply.github.com>
+Date:   Sun Mar 10 11:26:58 2019 +0700
+
+    Merge pull request #6 from 71unxv/wienlestari
+    
+    coba1
+
+[33mcommit 165a5126a90127ac8b7fd4989827d5b1a8e35710[m[33m ([m[1;31morigin/wienlestari[m[33m)[m
+Author: wienl <tugas.wien@gmail.com>
+Date:   Sun Mar 10 11:23:33 2019 +0700
+
+    coba1
+
+[33mcommit 6c7452c1dcb041fbe2703fb6b58e4cf54114c38a[m
+Merge: 1499a4a c9047f0
+Author: reyhandza <48398962+reyhandza@users.noreply.github.com>
+Date:   Sun Mar 10 11:21:17 2019 +0700
+
+    Merge pull request #5 from 71unxv/reyhandzaky
+    
+    Promosi 1
+
+[33mcommit 1499a4a2186609e309cff126e3369bdccbaa3a89[m
+Merge: 68bd550 d67ba82
+Author: maulutama1417 <44823475+maulutama1417@users.noreply.github.com>
+Date:   Sun Mar 10 11:18:07 2019 +0700
+
+    Merge pull request #4 from 71unxv/MaulanaHutama
+    
+    file dari Maulana Hutama
+
+[33mcommit 68bd550f01d52e3e69c9ec8ff4340e0a4bc8f911[m
+Merge: a2716e5 14a951e
+Author: redofaris <48398974+redofaris@users.noreply.github.com>
+Date:   Sun Mar 10 11:17:17 2019 +0700
+
+    Merge pull request #2 from 71unxv/RedoFaris
+    
+    redo
+
+[33mcommit a2716e5ba069b987a9acd1916878f440db1ff82e[m
+Merge: 1ef21b4 296e91b
+Author: almarsatrkhf <48398958+almarsatrkhf@users.noreply.github.com>
+Date:   Sun Mar 10 11:17:06 2019 +0700
+
+    Merge pull request #3 from 71unxv/AlmarsaTerakahfi
+    
+    AlmarsaTerakahfi.txt
+
+[33mcommit 1ef21b4fa19821782756ae18aa19a4eba1f7b2a2[m
+Merge: 667e04e 20a813b
+Author: Zack <43399302+LutfiZakaria@users.noreply.github.com>
+Date:   Sun Mar 10 11:14:52 2019 +0700
+
+    Merge pull request #1 from 71unxv/LutfiZakaria
+    
+    File dari Moch Lutfi Zakaria
+
+[33mcommit 1d936549084adad1c5bc0d1d9c209dff5f12865e[m[33m ([m[1;31morigin/rintabt2[m[33m, [m[1;31morigin/RintaBT[m[33m)[m
+Author: rintabt <rintabt@gmail.com>
+Date:   Sun Mar 10 11:09:44 2019 +0700
+
+    rinta_ver01a
+
+[33mcommit a1eaaf5226aa88324f9bf0e3811bb87d766b38d4[m
+Author: unknown <rintabt@gmail.com>
+Date:   Sun Mar 10 10:59:10 2019 +0700
+
+    rinta_versi01
+
+[33mcommit f947e597808ed8a4d9be5cb9165b3e7dece54334[m[33m ([m[1;31morigin/AchmadDwiCahya[m[33m)[m
+Author: unknown <achmaddwicahya8@gmail.com>
+Date:   Sun Mar 10 10:59:02 2019 +0700
+
+    cahya
+
+[33mcommit 14a951e7de6105e0c098fc2db39a2eb05b1cd2ac[m[33m ([m[1;31morigin/RedoFaris[m[33m)[m
+Author: Redo Faris Novrizki <redofaris@gmail.com>
+Date:   Sun Mar 10 10:58:55 2019 +0700
+
+    redo
+
+[33mcommit c9047f001e3fb6c7f1e8181a3ee3a7c4ba18694e[m[33m ([m[1;31morigin/reyhandzaky[m[33m)[m
+Author: Dzaky <reyhandzaky.rd@gmail.com>
+Date:   Sun Mar 10 10:58:14 2019 +0700
+
+    Promosi 1
+
+[33mcommit 296e91ba7185b4cde0cd6f18b48f2cedea4bab62[m[33m ([m[1;31morigin/AlmarsaTerakahfi[m[33m)[m
+Author: almarsa terakahfi <almarsa.trkhf@gmail.com>
+Date:   Sun Mar 10 10:58:02 2019 +0700
+
+    AlmarsaTerakahfi.txt
+
+[33mcommit d67ba82c9700221eb5aa4e4b728a9766da2dd924[m[33m ([m[1;31morigin/MaulanaHutama[m[33m)[m
+Author: Maulana Hutama <maulana.hutama14@outlook.com>
+Date:   Sun Mar 10 10:57:21 2019 +0700
+
+    file dari Maulana Hutama
+
+[33mcommit 20a813bd9ab6fbbdfacd34caa891c6be8c05cb3c[m[33m ([m[1;31morigin/LutfiZakaria[m[33m)[m
+Author: Zakaria <zakaria@alterra.id>
+Date:   Sun Mar 10 10:57:16 2019 +0700
+
+    File dari Moch Lutfi Zakaria
+
+[33mcommit 667e04ec56f926f2cf8e9bc21a237358c4e6cdf8[m
+Author: M Irsyad Hibatullah <hibatullah.geophysics@gmail.com>
+Date:   Sun Mar 10 07:57:52 2019 +0700
+
+    Initial commit
