@@ -48,4 +48,5 @@ if igo.isSwim() == True:
 elif igo.isSwim() == False:
     print('igo is lazy')
     
+    
 
