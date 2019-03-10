@@ -14,7 +14,7 @@ p2 = 75.00
 p3 = 150.00
 p4 = 12.50
 
-print(f"john have {a} apple the price is{p1}")
+print(f"john have {a} apple the price is {p1}")
 print(f"dilan have {b} apple the price is {p2}")
 print(f"sarah have {c} apple the price is {p3}")
 print(f"a price for {d} apple is {p4}")
