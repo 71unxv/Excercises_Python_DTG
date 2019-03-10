@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#SEQUENTIAL
 strip = '--------------'
 A = [['A | B | C | D |'],['D | E | F | G |'],
      ['H | I | J | K |'],['L | M | N | O |']]
