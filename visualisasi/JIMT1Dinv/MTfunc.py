@@ -13,8 +13,8 @@ ________________________________________________________________________________
 """
 # ============================================================================================
 # Import Library
-import numpy as np
-import JIMT1Dinv.MTfunc as mt
+#import numpy as np
+#import JIMT1Dinv.MTfunc as mt
 #import matplotlib.pyplot as plt
 
 
