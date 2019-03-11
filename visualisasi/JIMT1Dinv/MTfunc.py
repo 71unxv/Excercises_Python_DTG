@@ -77,9 +77,6 @@ def forwardMT1D(ModelMT,DataMT):
         DataMT.AppRes[ii],DataMT.Phase[ii] = forwardFuncMT1D(ModelMT.res, ModelMT.thick, DataMT.Frequency[ii])
     return DataMT
 
-
-
-
 def forwardFuncMT1D(res,thick,freq):
 
     # res = np.asarray(res)
@@ -147,30 +144,30 @@ def calculateJacobMT1D(res,thick,freq,par):
 
 # clear_all()
 #
-# resistivity = np.array([100,100,500,500,500,100,1000])
-# thickness = np.ones([len(resistivity)]) * 400
-# freq = np.linspace(-4,4,160)
-# freq = 10**freq
-#
-#
-# App = np.zeros(len(freq))
-# Phase = np.zeros(len(freq))
-# for ii in range(np.size(freq)):
-#     App[ii],Phase[ii] = forwardMT1D(resistivity,thickness,freq[ii])
-#
-# plt.subplot(121)
-# plt.loglog(freq,App)
-#
-# plt.subplot(122)
-# plt.plot(np.log(freq),np.rad2deg(Phase))
-# plt.show()
+ resistivity = np.array([100,100,500,500,500,100,1000])
+ thickness = np.ones([len(resistivity)]) * 400
+ freq = np.linspace(-4,4,160)
+ freq = 10**freq
 
-# fig = plt.figure()
-# # fig.add_subplot(121)
-# fig.add_subplot(121).loglog(freq,App)
-#
-# fig.show()
-# # fig.add_subplot(122)
-# # fig.add_subplot(122).loglog(freq,Phase)
-# # fig.show()
+
+ App = np.zeros(len(freq))
+ Phase = np.zeros(len(freq))
+ for ii in range(np.size(freq)):
+     App[ii],Phase[ii] = forwardMT1D(resistivity,thickness,freq[ii])
+
+ plt.subplot(121)
+ plt.loglog(freq,App)
+
+ plt.subplot(122)
+ plt.plot(np.log(freq),np.rad2deg(Phase))
+ plt.show()
+
+ fig = plt.figure()
+ # fig.add_subplot(121)
+ fig.add_subplot(121).loglog(freq,App)
+
+ fig.show()
+ # fig.add_subplot(122)
+ # fig.add_subplot(122).loglog(freq,Phase)
+ # fig.show()
 
