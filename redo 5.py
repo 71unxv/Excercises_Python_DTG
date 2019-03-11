@@ -11,7 +11,7 @@ class Bird():
         if command == 1:
             self.fly == False
         else :
-            self.fly == True
+        self.fly == True
             
 class Penguin(Bird):
     def __init__ (self):
